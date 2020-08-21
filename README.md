@@ -1,2 +1,3 @@
 # Oficina-HTML-e-CSS
-Oficina realizada pelo colega Vinícius Santos sobre HTML e CSS no mês de Agosto de 2020.
+Oficina realizada pelo colega Vinícius Santos sobre HTML e CSS no mês de Agosto de 2020 juntamente com a UFAPE, constituída por 7 módulos com carga horária total de 8h. Os módulos serão: 2 de Introdução ao HTML englobando a anatomia, estrutura e elementos essenciais dele.
+Os outros 5 são voltados ao CSS, neles serão explicados e demonstrados a anatomia, estrutura e sintaxe do CSS, englobando ainda a construção de layouts utilizando diversas propriedades oferecidas pelo CSS. A oficina ainda oferece conceitos básicos de responsividade e animações em CSS e atividades práticas em conjunto.
